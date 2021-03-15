@@ -15,28 +15,20 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 * Comece montando o hardware --> [esquemático](https://user-images.githubusercontent.com/71731452/111225844-0db2c700-85bf-11eb-83d9-2f78065c2d21.jpg) 
 
 ### Pré-requisitos
-#### Hardware
+
 * Sensor de Umidade do Solo
 * ESP8266
 * DHT 22
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   sh
-   git clone https://github.com/your_username_/Project-Name.git
-   
-3. Install NPM packages
-   sh
-   npm install
-   
-4. Enter your API in `config.js`
-   JS
-   const API_KEY = 'ENTER YOUR API';
-   
+1. Obtenha o PlataformIO [https://platformio.org/](https://platformio.org/)
+2. Clone o repositorio 
 
-
+   git clone https://github.com/marceloapd/PlantaloT
+   
+4. Suba o codigo para o ESP8266
+   
 
 <!-- USAGE EXAMPLES -->
 ## Usage
