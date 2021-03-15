@@ -15,6 +15,7 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 * Comece montando o hardware baseado nesse [esquema eletrico](https://user-images.githubusercontent.com/71731452/111225844-0db2c700-85bf-11eb-83d9-2f78065c2d21.jpg) 
 * Crie uma conta no [ThingSpeak](https://thingspeak.com/)
 * Crie um "channel" no ThingSpeak com 3 "Fields" para registrar as leituras(umidade_solo, umidade_ar e temperatura).
+
 ![image-removebg-preview](https://user-images.githubusercontent.com/71731452/111229156-2ec9e680-85c4-11eb-8604-ee393cfd939e.png)
 
 ### Pré-requisitos
