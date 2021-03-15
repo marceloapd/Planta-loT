@@ -23,10 +23,7 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 ### Installation
 
 1. Obtenha o PlataformIO [https://platformio.org/](https://platformio.org/)
-2. Clone o repositorio 
-
-   git clone https://github.com/marceloapd/PlantaloT
-   
+2. Clone o repositorio git clone https://github.com/marceloapd/PlantaloT
 4. Suba o codigo para o ESP8266
    
 
