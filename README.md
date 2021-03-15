@@ -12,9 +12,9 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 
 ## Começando
 
-* Comece montando o hardware baseado nesse [esquema eletrico](https://user-images.githubusercontent.com/71731452/111225844-0db2c700-85bf-11eb-83d9-2f78065c2d21.jpg) 
 * Crie uma conta no [ThingSpeak](https://thingspeak.com/)
 * Crie um "channel" no ThingSpeak com 3 "Fields" para registrar as leituras(umidade_solo, umidade_ar e temperatura).
+* Vincule uma conta do twitter ao ThingSpeak.
 
 ![image-removebg-preview](https://user-images.githubusercontent.com/71731452/111229156-2ec9e680-85c4-11eb-8604-ee393cfd939e.png)
 
@@ -26,9 +26,11 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 
 ### Instalação
 
-1. Obtenha o PlataformIO [https://platformio.org/](https://platformio.org/)
-2. Clone o repositorio git clone https://github.com/marceloapd/PlantaloT
-4. Suba o codigo para o ESP8266
+1. Comece montando o hardware baseado nesse [esquema eletrico](https://user-images.githubusercontent.com/71731452/111225844-0db2c700-85bf-11eb-83d9-2f78065c2d21.jpg) 
+2. Obtenha o PlataformIO [https://platformio.org/](https://platformio.org/)
+3. Clone o repositorio https://github.com/marceloapd/PlantaloT
+4. Importe o projeto para o PlataformIO
+5. Suba o firmware para o ESP8266
    
 
 ## Uso
@@ -58,5 +60,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Marcelo Assis - [@marceloapda](https://twitter.com/marceloapda) - marcelo.apdassis@gmail.com
 
-Project Link: [https://github.com/marceloapd/PlantaloT](https://github.com/marceloapd/PlantaloT)
+Link do Projeto: [https://github.com/marceloapd/PlantaloT](https://github.com/marceloapd/PlantaloT)
 
