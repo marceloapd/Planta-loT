@@ -1,16 +1,13 @@
-## About The Project
+## Sobre o projeto
 
 ![Sem_título-removebg-preview](https://user-images.githubusercontent.com/71731452/111224894-d263c880-85bd-11eb-939b-ff83d24d79ed.png)
 
-Este projeto consiste em um dispositivo capaz de gerenciar e notificar as necessidades de uma planta domestica
+Este projeto consiste em desenvolver um dispositivo capaz de notificar as necessidades de uma planta domestica.
 
-### Built With
+### Construido com
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* [Proteus Design Suite](https://www.labcenter.com/)
+* [PlatformIO](https://platformio.org/)
 
 
 <!-- GETTING STARTED -->
