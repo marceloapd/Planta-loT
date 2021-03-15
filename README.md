@@ -27,7 +27,6 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 4. Suba o codigo para o ESP8266
    
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -36,11 +35,9 @@ For more examples, please refer to the [Documentation](https://example.com)
 
 
 
-
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+Consulte os [issues](https://github.com/othneildrew/Best-README-Template/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
 
 
 
