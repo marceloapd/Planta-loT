@@ -10,19 +10,15 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 * [PlatformIO](https://platformio.org/)
 
 
-<!-- GETTING STARTED -->
 ## Começando
 
-* Comece montando o esquematico [esquematico](https://user-images.githubusercontent.com/71731452/111225844-0db2c700-85bf-11eb-83d9-2f78065c2d21.jpg)
-
+* Comece montando o hardware --> [esquemático](https://user-images.githubusercontent.com/71731452/111225844-0db2c700-85bf-11eb-83d9-2f78065c2d21.jpg) 
 
 ### Pré-requisitos
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  sh
-  npm install npm@latest -g
-  
+#### Hardware
+* Sensor de Umidade do Solo
+* ESP8266
+* DHT 22
 
 ### Installation
 
