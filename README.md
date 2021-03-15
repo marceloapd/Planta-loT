@@ -25,3 +25,7 @@ Desenvolvimento de um dispositivo capaz de gerenciar e notificar todas as necess
 ![esquematico-1](https://user-images.githubusercontent.com/71731452/111221479-4ea7dd00-85b9-11eb-87d0-59cbdb99f12c.jpg)
 
 --- 
+
+# Funções de software
+
+* Fazer tweets em uma rede social propria 
