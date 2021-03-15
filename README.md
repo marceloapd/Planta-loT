@@ -1,7 +1,7 @@
 # PlantaloT
 Desenvolvimento de um dispositivo capaz de gerenciar e notificar todas as necessidades de uma planta domestica.
 
-![Sem_título-removebg-preview](https://user-images.githubusercontent.com/71731452/111220059-772ed780-85b7-11eb-8ad9-ed3c3f349f78.png) ![PLANTA PREVIEW](https://user-images.githubusercontent.com/71731452/111220654-384d5180-85b8-11eb-9115-943b13307157.png)
+![Sem_título-removebg-preview](https://user-images.githubusercontent.com/71731452/111220059-772ed780-85b7-11eb-8ad9-ed3c3f349f78.png)
 
 ---
 
