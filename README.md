@@ -11,12 +11,12 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Começando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+* Comece montando o esquematico [esquematico](https://user-images.githubusercontent.com/71731452/111225844-0db2c700-85bf-11eb-83d9-2f78065c2d21.jpg)
 
-### Prerequisites
+
+### Pré-requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
