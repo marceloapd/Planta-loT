@@ -20,19 +20,18 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 * ESP8266
 * DHT 22
 
-### Installation
+### Instalação
 
 1. Obtenha o PlataformIO [https://platformio.org/](https://platformio.org/)
 2. Clone o repositorio git clone https://github.com/marceloapd/PlantaloT
 4. Suba o codigo para o ESP8266
    
 
-## Usage
+## Uso
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Atualmente o dispositivo de PlantaloT consegue notificar via twitter o valor de seus sensores de umidade do solo, umidade do ar e temperatura
 
-For more examples, please refer to the [Documentation](https://example.com)
-
+Para obter exemplos, abra o [twitter](https://twitter.com/do_planta)
 
 
 ## Roadmap
@@ -51,7 +50,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
 ## Contato
 
 Marcelo Assis - [@marceloapda](https://twitter.com/marceloapda) - marcelo.apdassis@gmail.com
