@@ -44,7 +44,7 @@ Para obter exemplos, abra o [twitter](https://twitter.com/do_planta)
 
 ## Roadmap
 
-Consulte os [issues](https://github.com/othneildrew/Best-README-Template/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
+Consulte os [issues](https://github.com/marceloapd/PlantaloT/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
 
 
 
