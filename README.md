@@ -16,7 +16,8 @@ Este projeto consiste em desenvolver um dispositivo capaz de notificar as necess
 * Vincule uma conta do twitter ao ThingSpeak.
 * Crie um "channel" no ThingSpeak com 3 "Fields" para registrar as leituras(umidade_solo, umidade_ar e temperatura).
 
-![image-removebg-preview](https://user-images.githubusercontent.com/71731452/111229156-2ec9e680-85c4-11eb-8604-ee393cfd939e.png)
+![Sem título](https://user-images.githubusercontent.com/71731452/111236738-545dec80-85d2-11eb-84eb-4a91f30200b1.png)
+
 
 ### Pré-requisitos
 
