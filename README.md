@@ -4,6 +4,11 @@
 
 Este projeto consiste em desenvolver um dispositivo capaz de notificar as necessidades de uma planta domestica.
 
+## Features
+
+* Conexão ao Wifi via WPS
+* Auto-save da senha da ultima conexão Wifi
+
 ### Construido com
 
 * [Proteus Design Suite](https://www.labcenter.com/)
